@@ -38,7 +38,7 @@ function Bank() {
   return (
     <div className="min-h-screen p-6 bg-gradient-to-br from-blue-100 to-indigo-200">
       <h1 className="text-2xl font-bold text-white bg-indigo-700 py-4 px-6 rounded-lg shadow-md mb-8">
-        🏦 Dream Loan Calculator
+        🏦 Loan Calculator
       </h1>
       <div className="flex flex-col md:flex-row gap-8">
         {/* Inputs */}
